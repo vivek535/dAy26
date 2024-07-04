@@ -26,22 +26,6 @@ You can access the live demo of the project [here](https://blog-using-react-rout
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps:
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/Shanmugamrskfamily/guvi-blog-using-react-router-dom.git
-
-   cd your-repo-name
-
-   npm install
-
-   npm start
-   ```
-
-## Usage
-
 Navigate through different topics and articles using the navigation menu. Click on articles to read their full content.
 
 ## Technologies Used
